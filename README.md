@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CharlieProd
+- 👀 I’m interested in programmation
+- 🌱 I’m currently learning C++
